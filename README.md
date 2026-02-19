@@ -1,7 +1,5 @@
 # 💫 About Me:
-<br>⸻<br><br>👋 Hi, I’m Praveen Biram<br><br>🎓 B.Tech Computer Science Student | IIIT Senapati (2023–2027)<br>💻 Full-Stack Developer | AI Enthusiast | Problem Solver<br><br><br><br>🚀 About Me<br><br>I’m a passionate Computer Science student with a strong foundation in Data Structures, OOP, Operating Systems, and Basic Data Science.<br>
-
-
+<br>⸻<br>👋 Hi, I’m Praveen Biram<br><br>🎓 B.Tech Computer Science Student | IIIT Senapati (2023–2027)<br>💻 Full-Stack Developer | AI Enthusiast | Problem Solver<br><br>I’m a passionate Computer Science student with a strong foundation in Data Structures, OOP, Operating Systems, and Basic Data Science.<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen Biram ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:birampraveen2005@gmail.com) 
 
